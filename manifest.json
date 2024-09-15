@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "kW to HP Converter for Njuškalo",
+  "version": "1.0",
+  "description": "Converts kW to HP on Njuškalo car listings",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.njuskalo.hr/auti/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
