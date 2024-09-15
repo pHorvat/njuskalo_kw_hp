@@ -2,6 +2,9 @@
 
 A simple Chrome extension that adds horsepower (HP) values next to kilowatt (kW) values on Njuškalo car listings.
 
+![image](https://github.com/user-attachments/assets/ec60aa87-1beb-4006-8bfa-a73951f8f461)
+
+
 ## Quick Install
 
 1. Download .zip file.
